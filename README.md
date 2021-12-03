@@ -6,6 +6,7 @@
 * ✅Supports Custom Caption/ Permanent Thumbnail
 * ✅Force Subscribe To Targeted Chat
 
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ## Deploy to Heroku
 
