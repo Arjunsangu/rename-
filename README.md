@@ -30,8 +30,3 @@
 * -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
 * -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
-
-## Credits, and Thanks to Beloved Developers ;
-
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
